@@ -1,0 +1,14 @@
+_bmad/
+.claude/
+.env
+.venv/
+logs/
+__pycache__/
+*.pyc
+.env.local
+venv/
+*.faiss
+INTERVIEW_GUIDE.md
+.DS_Store
+.idea/
+.vscode/
