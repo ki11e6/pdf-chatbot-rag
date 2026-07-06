@@ -1,3 +1,14 @@
+---
+title: PDF Chat Assistant
+emoji: 📚
+colorFrom: indigo
+colorTo: purple
+sdk: docker
+app_port: 7860
+pinned: false
+license: mit
+---
+
 # 📚 PDF Chat Assistant — RAG over your documents
 
 A production-style **Retrieval-Augmented Generation (RAG)** chatbot that answers
@@ -6,7 +17,9 @@ and shows you *exactly where* each answer came from with **visual citation
 highlighting** on the original page.
 
 Built with **LangChain**, **Google Gemini**, **FAISS**, **PyMuPDF**, **Tesseract OCR**,
-and **Streamlit**. Containerized and deployable to Hugging Face Spaces.
+and **Streamlit**. Containerized and deployed to Hugging Face Spaces.
+
+**🔗 Live demo:** https://sharath32-pdf-chatbot-rag.hf.space
 
 ---
 
@@ -15,6 +28,7 @@ and **Streamlit**. Containerized and deployable to Hugging Face Spaces.
 https://github.com/user-attachments/assets/a4607370-360f-432a-8dec-4b19ca6e4d99
 
 > Upload PDFs → ask questions → get grounded answers with the source page region highlighted.
+> Try it live at **[sharath32-pdf-chatbot-rag.hf.space](https://sharath32-pdf-chatbot-rag.hf.space)**.
 
 ---
 
